@@ -5,4 +5,4 @@
 *  Consta de estos archivos:
 
 > > __``index.php ``__ 
-> > > __``$ sudo apt-get install php5-ldap ``__
+> > __``Readme.md ``__
